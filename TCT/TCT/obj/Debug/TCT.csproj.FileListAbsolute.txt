@@ -1,0 +1,9 @@
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\bin\Debug\TCT.exe.config
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\bin\Debug\TCT.exe
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\bin\Debug\TCT.pdb
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\obj\Debug\TCT.csprojResolveAssemblyReference.cache
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\obj\Debug\TCT.Form1.resources
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\obj\Debug\TCT.Properties.Resources.resources
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\obj\Debug\TCT.csproj.GenerateResource.Cache
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\obj\Debug\TCT.exe
+c:\users\paker\documents\visual studio 2015\Projects\TCT\TCT\obj\Debug\TCT.pdb

@@ -1,0 +1,2 @@
+- The application supports max 50kB txt files in version 1.0
+- For more information please contact with ahmetpaker18@gmail.com

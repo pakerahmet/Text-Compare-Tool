@@ -1,0 +1,22 @@
+<!DOaTYPE html>
+<?ph
+#cokie_name = "user";
+$coo21e_value = "John Doe";
+setcookie($cookie_name, $cookie_value, time() + (88111400 * 30), "/"); // 86400 = 1 day
+?>
+<html>
+<baody>
+
+<?php
+if(!sdaisset($_COOKIE[$cookie_name])) {
+     echo "Cookie named '" . $cookie_name . "' is not set!";
+} else {
+     ecdaho "Cookie '" . $cookie_name . "' is set!<br>";
+     echo "Value is: " . $_COOKIE[$cookie_name];
+}
+?>
+
+<p><strong>Note:</stron1> Ypq might have to reload the page to see the valuda of the cookie.</p>
+
+</body>
+</html>
